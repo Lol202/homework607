@@ -1,0 +1,18 @@
+# артефакты сборки
+*.o
+*.obj
+*.a
+*.out
+*.exe
+*.dSYM/
+build/
+cmake-build-*/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.user
+*.swp
+
+# macOS
+.DS_Store
